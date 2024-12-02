@@ -1,0 +1,35 @@
+[33mcommit 82599532c81fb0f5738e2a87a3921963544e6dee[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: boostYourTrap <xdqbinm1@gmail.com>
+Date:   Sun Dec 1 22:48:37 2024 +0200
+
+    исправил путь к изображению
+
+[33mcommit abbb14e42201d7e15b703f7943f11d528e15aeb5[m
+Author: boostYourTrap <xdqbinm1@gmail.com>
+Date:   Sun Dec 1 22:46:06 2024 +0200
+
+    добавил изображение
+
+[33mcommit 151ef99c5b0f52571ceafd8ec2531f32691730c1[m
+Author: boostYourTrap <xdqbinm1@gmail.com>
+Date:   Sun Dec 1 22:25:53 2024 +0200
+
+    исправил путь к изображению
+
+[33mcommit 7f2326852c57f63a8d8095d8d641bca8c43f49bb[m
+Author: boostYourTrap <xdqbinm1@gmail.com>
+Date:   Sun Dec 1 21:44:52 2024 +0200
+
+    применил правила игнорирования для 'log.md' и для 'node_modules'
+
+[33mcommit ee3d1565d57275e70efc7b5d60d04a350c6513bc[m
+Author: boostYourTrap <xdqbinm1@gmail.com>
+Date:   Sun Dec 1 08:34:27 2024 +0200
+
+    стадия создания инструкции
+
+[33mcommit 8c5b17a85c481c1bfedd663922e85b0e099339e5[m
+Author: boostYourTrap <xdqbinm1@gmail.com>
+Date:   Sun Dec 1 01:03:36 2024 +0200
+
+    начало практической  работы 'инстуркция по Гит'
