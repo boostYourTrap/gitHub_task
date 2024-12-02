@@ -4,8 +4,11 @@ LICENCE - [MIT](licence.md)
 
 ---
 ---
-GIT Logo by https://code-wizard.ai/ ![logo](pictures\git.png "logo Git")
-GIT Logo by https://code-wizard.ai/ 
+GIT Logo by https://code-wizard.ai/
+
+ ![logo](pictures/git.png "logo Git")
+
+
 
 
 
