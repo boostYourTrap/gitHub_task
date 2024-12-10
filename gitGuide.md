@@ -4,24 +4,26 @@ LICENCE - [MIT](licence.md)
 
 ---
 ---
-GIT Logo by https://code-wizard.ai/
+GIT Logo by Maha Al Hashimi  http://academany.fabcloud.io/fabacademy/2020/labs/uae/students/meha-hashmi/
 
- ![logo](pictures/git.png "logo Git")
+ ![logo](pictures/c619df96a5b24d8b45d923cc19bb82b4.jpeg "logo Git")
 
 
 
+
+license: [CC BY-NC-SA 4.0] https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 ---
 ---
-license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en
-)
----
----
+
+<br>
+<br>
+
 
 
 ## Содержание
----
+
 
 
 1. [**основы GIT**][1]
